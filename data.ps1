@@ -1,7 +1,7 @@
 #$dc = 'token here'
 
 $content = @"
-message here
+Message here
 "@
 
 $payload = [PSCustomObject]@{
